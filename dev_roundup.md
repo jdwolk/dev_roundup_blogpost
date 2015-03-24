@@ -35,10 +35,13 @@ tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
 
 ## What Do You Need?
 
-...laptops, to access the aforementioned Doc...
-...some way of sharing -- we use Apple TV...
-...beer...
-...devs -- the more, the merrier!...
+We've assembled the following checklist of required materials to host
+your own Dev Roundup:
+
+* Laptops + an internet connection (to access the aforementioned Doc)
+* A way to share screens (we use Apple TV + a big ol' TV)
+* Beer
+* Devs -- the more, the merrier!
 
 
 ## So Who Shows Up?
