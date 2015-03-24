@@ -6,22 +6,22 @@ you might be eager to leave the office on a Friday evening.
 
 You'd be tempted to run from your monitor, hastily shoving
 your laptop into your crowded messenger bag, forgetting
-to zip your coffee-stained hoody as you shoot a 'HAVAGUDWEEKEND' behind you
+to zip your coffee-stained hoodie as you shoot a 'HAVAGUDWEEKEND' behind you
 to the closing office door.
 
 But, my brother or sister Dev, you'd be missing out on so much.
 
 ## What's This Dev Roundup Thing?
 
-At philosophie, our software developers look forward to our weekly Dev
+At philosophie, we software developers look forward to the weekly Dev
 Roundup.
 
-Most Fridays at 5pm, philosophie developers wrap up our
-projects, choose a beverage from our well-stocked fridge, and make the hallowed
+Most Fridays at 5pm, we Devs wrap up our projects, choose a beverage from
+our well-stocked fridge, and make the hallowed
 pilgrimage to our accustomed conference room with laptops in hand.
 
-We share stories from the trenches, reflect on our on team, trade our best
-tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
+We share stories from the trenches, reflect on the team, trade tips and tricks,
+and enjoy a beer and a few lulz with our fellow devs.
 
 
 ## What do you Do?
@@ -62,9 +62,9 @@ Our Roundups always welcome visiting devs from our other offices. Besides
 being informative, Dev Roundup is a way to spread our culture --
 our 'philosophie', if you will -- to all our teams.
 
-Bad puns aside, we also welcome our contractors to join in Roundups.
-Having outside opinions and fresh content adds some variety,
-and lets contractors get to know our team better.
+Bad puns aside, we also welcome contractors and interns to join in Roundups.
+Having outside opinions and fresh content adds variety,
+and allows us to know our contractors and interns better.
 
 Select past-philosophers are also extended a perpetual invitation. It's always
 good to catch up and find what interesting projects people have been
@@ -74,10 +74,10 @@ working on after they've left the 'team proper'.
 On occasion, a curious UX Designer or PM might pop in. Like anthropological
 researchers studying a foreign culture, they usually observe and jot notes
 about what we do in our native habitat --
-crack jokes about the latest JS Frontend Framework, for example.
+crack jokes about the latest JavaScript frontend framework, for example.
 
 Realistically, we welcome non-developer members of the philosophie staff to
-our Roundups. It gives them a forum to address all the developers at once,
+Roundups. It gives them a forum to address all the developers at once,
 and it allows us to talk with them about issues that might affect
 all the developers.
 
