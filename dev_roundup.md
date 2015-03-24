@@ -1,7 +1,7 @@
 # Dev Roundup  -- Bringing Devs together for Teh Awesome
 
 After a long week of implementing features, writing unit tests, and
-staring at a tmux session in the terminal color scheme du-jour,
+staring at tmux panes in the terminal color scheme du-jour,
 you might be eager to leave the office on a Friday evening.
 
 You'd be tempted to run from your monitor, hastily shoving
