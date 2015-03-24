@@ -11,13 +11,17 @@ to the closing office door.
 
 But, my brother or sister Dev, you'd be missing out on so much.
 
+## What's This Dev Roundup Thing?
+
 Here at philosophie, our software developers look forward to our weekly Dev
-Roundup. We share our stories from the trenches, reflect on our on team,
-trade the best of our tips and tricks, and have a few beers and a few
-lulz.
+Roundup.
 
-## What's this Dev Roundup Thing?
+Nearly every Friday at 5pm, all philosophie developers wrap up our
+projects, choose a beverage from our well-stocked fridge, and make a hallowed
+pilgrimage to our accustomed conference room with laptops in hand.
 
+We share stories from the trenches, reflect on our on team, trade our best
+tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
 
 ## So Who Shows Up?
 
@@ -34,7 +38,7 @@ lulz.
 ## But Why Should I Care?
 
 
-
+## Sign Me Up!
 
 So next Friday evening, before you reach for your car keys, consider sticking
 around with your fellow Devs for a good ol' fashioned Dev Roundup. Your
