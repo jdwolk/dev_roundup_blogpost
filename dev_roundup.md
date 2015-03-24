@@ -5,7 +5,7 @@ staring at tmux panes in the terminal color scheme du-jour,
 you might be eager to leave the office on a Friday evening.
 
 You'd be tempted to run from your monitor, hastily shoving
-your laptop into your crowded messenger bag, forgetting
+your laptop into an overcrowded messenger bag, forgetting
 to zip your coffee-stained hoodie as you shoot a 'HAVAGUDWEEKEND' behind you
 to the closing office door.
 
@@ -26,11 +26,60 @@ and enjoy a beer and a few lulz with our fellow devs.
 
 ## What do you Do?
 
+Setting up laptops in our customary positions around the table, we pop
+bottlecaps and swap client project stories. Eventually someone remembers
+to turn on the TV and someone else steals the screen, revealing a project
+README on a GitHub repo. 'In a minute,' you remind them, 'we gotta do
+business first.'
+
+The roundup begins.
+
 ### The Doc
+Before the Roundup -- all through the week, in fact, but especially just before
+Roundup -- we contribute to The Doc. The Doc is a shared Google Doc with
+headers for the date of each Roundup and the content that follows.
+Like some sacred text chronicling Roundups since time immemorial,
+The Doc gives us insight into our collective past.
+
+The most recent header has today's date. Under the header are two subheaders:
+'Issues (Srsly)' and 'Show and Tell (Lulz)'.
 
 ### Srsly
+The `Issues (Srsly)` section consists of business- or process-related issues.
+
+Having trouble on a project? Concerned about the lack of a JavaScript style
+guide? Want to suggest an alternative hosted CI service? Add it to the
+`Srsly` section.
+
+We dedicate as much time as needed to the isses in the `Srsly` section,
+but in practice we don't spend much longer than 15 minutes per Roundup
+going over them.
+
+This section allows us to field issues as a group on a regular basis.
+It keeps everyone's ear to the beating developer's heart of the company.
 
 ### Lulz
+The Lulz. Ah, the Lulz.
+
+The `Show and Tell (Lulz)` section is the fun of Dev Roundup.
+
+We linkdump cool projects we've discovered through the course of the week,
+post insightful programming conference videos, list innumerable blog posts
+from thoughtleaders in various language communitities.
+
+It's a shared forum, too.
+
+We share snippets of code, techniques forged in the heat of client projects,
+idioms we're eager to get feedback on. We perform informal code review
+trying to get to the golden nugget of shared knowledge that we
+can all benefit from. We debate alternatives and arrive at solutions.
+
+We share our passions:
+
+Raspberry Pi projects, weekend Hackathon stories, functional programming
+insights, open source contributions, undocumented API internals...
+
+And all in the name of the clients, the company, the team, and the Roundup.
 
 
 ## What Do You Need?
@@ -84,10 +133,9 @@ all the developers.
 Though they only show up occasionally, we always extend an invitation.
 
 
-## But Why Should I Care?
-
-
 ## Sign Me Up!
+
+...Dev Roundup is a way to...
 
 So next Friday evening, before you reach for your car keys, consider sticking
 around with your fellow Devs for a good ol' fashioned Dev Roundup. Your
