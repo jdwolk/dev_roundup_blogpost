@@ -12,7 +12,6 @@ to the closing office door.
 But, my brother or sister Dev, you'd be missing out on so much.
 
 ## What's This Dev Roundup Thing?
-
 At philosophie, we software developers look forward to the weekly Dev
 Roundup.
 
@@ -25,7 +24,6 @@ and enjoy a beer and a few lulz with our fellow devs.
 
 
 ## What do you Do?
-
 Setting up laptops in our customary positions around the table, we pop
 bottlecaps and swap client project stories. Eventually someone remembers
 to turn on the TV and someone else steals the screen, revealing a project
@@ -134,8 +132,10 @@ Though they only show up occasionally, we always extend an invitation.
 
 
 ## Sign Me Up!
-
-...Dev Roundup is a way to...
+Dev Roundup is a great way to keep a team in sync. It gives Developers a
+chance to voice concerns, share opinions, and learn from one another. Its
+chief artifact, The Doc, provides both a valuable knowledgebase for
+veteran Devs and a cultural roadmap for new hires.
 
 So next Friday evening, before you reach for your car keys, consider sticking
 around with your fellow Devs for a good ol' fashioned Dev Roundup. Your
