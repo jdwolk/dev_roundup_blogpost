@@ -53,7 +53,7 @@ our 'philosophie', if you will -- to all our teams.
 
 Bad puns aside, we also welcome our contractors to join in Roundups.
 Having outside opinions and fresh content adds some variety to Roundups,
-and lets contractors know our team better.
+and lets contractors get to know our team better.
 
 Select past-philosophers are also extended a perpetual invitation. It's always
 good to catch up and find what interesting projects people have been
