@@ -13,10 +13,10 @@ But, my brother or sister Dev, you'd be missing out on so much.
 
 ## What's This Dev Roundup Thing?
 
-Here at philosophie, our software developers look forward to our weekly Dev
+At philosophie, our software developers look forward to our weekly Dev
 Roundup.
 
-Nearly every Friday at 5pm, all philosophie developers wrap up our
+Most Fridays at 5pm, philosophie developers wrap up our
 projects, choose a beverage from our well-stocked fridge, and make the hallowed
 pilgrimage to our accustomed conference room with laptops in hand.
 
@@ -31,6 +31,14 @@ tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
 ### Srsly
 
 ### Lulz
+
+
+## What Do You Need?
+
+...laptops, to access the aforementioned Doc...
+...some way of sharing -- we use Apple TV...
+...beer...
+...devs -- the more, the merrier!...
 
 
 ## So Who Shows Up?
@@ -52,7 +60,7 @@ being informative, Dev Roundup is a way to spread our culture --
 our 'philosophie', if you will -- to all our teams.
 
 Bad puns aside, we also welcome our contractors to join in Roundups.
-Having outside opinions and fresh content adds some variety to Roundups,
+Having outside opinions and fresh content adds some variety,
 and lets contractors get to know our team better.
 
 Select past-philosophers are also extended a perpetual invitation. It's always
@@ -60,15 +68,15 @@ good to catch up and find what interesting projects people have been
 working on after they've left the 'team proper'.
 
 ### Non-Devs
-
 On occasion, a curious UX Designer or PM might pop in. Like anthropological
 researchers studying a foreign culture, they usually observe and jot notes
 about what we do in our native habitat --
 crack jokes about the latest JS Frontend Framework, for example.
 
-Realistically, we welcome non-developer members of this philosophie staff to
-our roundups. It gives them a forum to address all the developers at once,
-and it allows us to talk with them about issues that might all the developers.
+Realistically, we welcome non-developer members of the philosophie staff to
+our Roundups. It gives them a forum to address all the developers at once,
+and it allows us to talk with them about issues that might affect
+all the developers.
 
 Though they only show up occasionally, we always extend an invitation.
 
