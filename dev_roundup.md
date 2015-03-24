@@ -17,13 +17,11 @@ Here at philosophie, our software developers look forward to our weekly Dev
 Roundup.
 
 Nearly every Friday at 5pm, all philosophie developers wrap up our
-projects, choose a beverage from our well-stocked fridge, and make a hallowed
+projects, choose a beverage from our well-stocked fridge, and make the hallowed
 pilgrimage to our accustomed conference room with laptops in hand.
 
 We share stories from the trenches, reflect on our on team, trade our best
 tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
-
-## So Who Shows Up?
 
 
 ## What do you Do?
@@ -33,6 +31,46 @@ tips and tricks, and enjoy a beer and a few lulz with our fellow devs.
 ### Srsly
 
 ### Lulz
+
+
+## So Who Shows Up?
+
+Well...the devs show up, of course.
+
+Specifically, all devs in one office gather for a Roundup. We've found that
+it's easier to have separate Roundups for offices in different timezones,
+rather than forcing everyone to adjust to one timezone's '5pm on a Friday'.
+
+Dev Roundup shouldn't feel like just another meeting -- it should be a
+wind-down session that let's everyone share, plan, learn, and enjoy the
+like-minded company of other devs. Forcing another team to
+huddle around a laptop at 8pm on a Friday goes against that goal.
+
+### Visiting Devs
+Our Roundups always welcome visiting devs from our other offices. Besides
+being informative, Dev Roundup is a way to spread our culture --
+our 'philosophie', if you will -- to all our teams.
+
+Bad puns aside, we also welcome our contractors to join in Roundups.
+Having outside opinions and fresh content adds some variety to Roundups,
+and lets contractors know our team better.
+
+Select past-philosophers are also extended a perpetual invitation. It's always
+good to catch up and find what interesting projects people have been
+working on after they've left the 'team proper'.
+
+### Non-Devs
+
+On occasion, a curious UX Designer or PM might pop in. Like anthropological
+researchers studying a foreign culture, they usually observe and jot notes
+about what we do in our native habitat --
+crack jokes about the latest JS Frontend Framework, for example.
+
+Realistically, we welcome non-developer members of this philosophie staff to
+our roundups. It gives them a forum to address all the developers at once,
+and it allows us to talk with them about issues that might all the developers.
+
+Though they only show up occasionally, we always extend an invitation.
 
 
 ## But Why Should I Care?
